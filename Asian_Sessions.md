@@ -1,5 +1,5 @@
 
-### **Day Trading Plan: XAU/USD (Gold) – Asian Session**  
+### **Scalping Plan: XAU/USD (Gold) – Asian Session**  
 **Strategy:** ICT (Inner Circle Trader)  
 **Market:** CFD (Contract for Difference)  
 **Instrument:** XAU/USD (Gold)  
